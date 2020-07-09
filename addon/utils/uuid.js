@@ -1,1 +1,1 @@
-export { _utilsUuid as default } from 'miragejs';
+export { _utilsUuid as default } from 'miragejs-peba';

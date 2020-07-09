@@ -1,1 +1,1 @@
-export { Collection as default } from 'miragejs';
+export { Collection as default } from 'miragejs-peba';

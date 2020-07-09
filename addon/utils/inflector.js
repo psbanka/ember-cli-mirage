@@ -3,7 +3,7 @@ export {
   _utilsInflectorDasherize as dasherize,
   _utilsInflectorUnderscore as underscore,
   _utilsInflectorCapitalize as capitalize
-} from 'miragejs';
+} from 'miragejs-peba';
 
 /*
   Keeping these tests here for now to avoid accidental breakage, but they are

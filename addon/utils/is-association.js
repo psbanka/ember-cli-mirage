@@ -1,1 +1,1 @@
-export { _utilsIsAssociation as default } from 'miragejs';
+export { _utilsIsAssociation as default } from 'miragejs-peba';

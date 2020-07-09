@@ -1,1 +1,1 @@
-export { _routeHandlersShorthandsGet as default } from 'miragejs';
+export { _routeHandlersShorthandsGet as default } from 'miragejs-peba';

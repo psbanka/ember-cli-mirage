@@ -1,1 +1,1 @@
-export { _utilsReferenceSort as default } from 'miragejs';
+export { _utilsReferenceSort as default } from 'miragejs-peba';

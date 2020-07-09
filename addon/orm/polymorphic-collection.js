@@ -1,1 +1,1 @@
-export { _ormPolymorphicCollection as default } from 'miragejs';
+export { _ormPolymorphicCollection as default } from 'miragejs-peba';

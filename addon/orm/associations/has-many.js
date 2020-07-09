@@ -1,1 +1,1 @@
-export { _ormAssociationsHasMany as default } from 'miragejs';
+export { _ormAssociationsHasMany as default } from 'miragejs-peba';

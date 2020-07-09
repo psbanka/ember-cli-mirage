@@ -1,1 +1,1 @@
-export { _routeHandlersObject as default } from 'miragejs';
+export { _routeHandlersObject as default } from 'miragejs-peba';

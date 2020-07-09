@@ -1,1 +1,1 @@
-export { ActiveModelSerializer as default } from 'miragejs';
+export { ActiveModelSerializer as default } from 'miragejs-peba';

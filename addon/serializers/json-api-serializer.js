@@ -1,1 +1,1 @@
-export { JSONAPISerializer as default } from 'miragejs';
+export { JSONAPISerializer as default } from 'miragejs-peba';

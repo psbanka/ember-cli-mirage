@@ -1,1 +1,1 @@
-export { _SerializerRegistry as default } from 'miragejs';
+export { _SerializerRegistry as default } from 'miragejs-peba';

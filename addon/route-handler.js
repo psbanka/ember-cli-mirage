@@ -1,1 +1,1 @@
-export { _RouteHandler as default } from 'miragejs';
+export { _RouteHandler as default } from 'miragejs-peba';

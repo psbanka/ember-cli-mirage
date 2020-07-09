@@ -1,1 +1,1 @@
-export { _utilsExtend as default } from 'miragejs';
+export { _utilsExtend as default } from 'miragejs-peba';

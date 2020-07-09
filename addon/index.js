@@ -1,2 +1,2 @@
-export { default } from 'miragejs';
-export * from 'miragejs';
+export { default } from 'miragejs-peba';
+export * from 'miragejs-peba';

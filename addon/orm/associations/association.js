@@ -1,1 +1,1 @@
-export { _ormAssociationsAssociation as default } from 'miragejs';
+export { _ormAssociationsAssociation as default } from 'miragejs-peba';

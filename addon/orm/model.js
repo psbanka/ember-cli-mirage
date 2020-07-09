@@ -1,1 +1,1 @@
-export { Model as default } from 'miragejs';
+export { Model as default } from 'miragejs-peba';

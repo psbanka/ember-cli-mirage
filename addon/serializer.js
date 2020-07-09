@@ -1,1 +1,1 @@
-export { Serializer as default } from 'miragejs';
+export { Serializer as default } from 'miragejs-peba';

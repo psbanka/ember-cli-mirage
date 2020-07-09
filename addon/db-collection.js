@@ -1,1 +1,1 @@
-export { _dbCollection as default } from 'miragejs';
+export { _dbCollection as default } from 'miragejs-peba';

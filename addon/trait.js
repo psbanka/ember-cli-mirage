@@ -1,1 +1,1 @@
-export { trait as default } from 'miragejs';
+export { trait as default } from 'miragejs-peba';
